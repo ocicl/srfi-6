@@ -1,0 +1,10 @@
+* srfi-6
+
+SRFI-6 for CL: Basic String Ports
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/g000001/srfi-6.git   |
+| commit  | 862bcc7  |
+| systems | srfi-6 |
+|---------+-------------------------------------------|
+
